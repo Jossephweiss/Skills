@@ -1,0 +1,7 @@
+{
+  "name": "work-method",
+  "version": "0.1.0",
+  "description": "A fact register, an output check, and a set of working rules that enter every system prompt — so the method does not depend on memory.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
